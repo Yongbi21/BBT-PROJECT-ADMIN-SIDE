@@ -1,2 +1,4 @@
-# BBT Project
- SE PROJECT
+# wmsu-collection-system
+Ito na talaga ang main
+
+Igalaw ang baso
