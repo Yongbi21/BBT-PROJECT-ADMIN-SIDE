@@ -1,1 +1,0 @@
-functions are being used as a tools to help scripts in php.

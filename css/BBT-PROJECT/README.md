@@ -1,2 +1,0 @@
-# BBT PROJECT
- Frontend
